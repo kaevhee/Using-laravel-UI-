@@ -1,2 +1,2 @@
-# Using-laravel-UI-
-learnt how to use the UI,along with botsrap and link different pages. Made use of mailtrap to reset passwork with the internet
+# Using-laravel-UserInterface-
+learnt how to use the UI, along with Bootstrap to link different pages. Also made use of Mailtrap to reset password with the internet.
